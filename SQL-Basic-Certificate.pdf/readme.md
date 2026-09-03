@@ -48,7 +48,7 @@ I am continuing to strengthen my SQL skills through consistent problem-solving a
 
 ## 📂 Certificate
 
-Certificate: View SQL (Basic) Certificate
+Certificate: [View SQL (Basic) Certificate](https://github.com/md-avesh/Certificates/blob/main/SQL-Basic-Certificate.pdf/sql_basic%20certificate%20HackerRank%20(1)-compressed.pdf)
 
 Credential Verification: [Verify on HackerRank](https://www.hackerrank.com/certificates/cafdfe87e88b)
 
