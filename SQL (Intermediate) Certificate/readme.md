@@ -14,7 +14,7 @@ This certification demonstrates my ability to apply intermediate-to-advanced SQL
 | **Issuing Organization** | HackerRank |
 | **Credential ID** | 0951CC7378E1 |
 | **Issued** | September 2026 |
-| **Verification** | [[Verify Credential](YOUR_HACKERRANK_VERIFICATION_URL](https://www.hackerrank.com/certificates/0951cc7378e1?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)) |
+| **Verification** | [(YOUR_HACKERRANK_VERIFICATION_URL](https://www.hackerrank.com/certificates/0951cc7378e1?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)) |
 
 ---
 
@@ -72,14 +72,14 @@ I am continuing to strengthen my SQL expertise through consistent problem-solvin
 
 ## 📂 Certificate
 
-**Certificate:** [[View SQL (Intermediate) Certificate](YOUR_CERTIFICATE_LINK](https://www.hackerrank.com/certificates/0951cc7378e1?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate))
+**Certificate:** [(YOUR_CERTIFICATE_LINK](https://www.hackerrank.com/certificates/0951cc7378e1?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate))
 
-**Credential Verification:** [[Verify on HackerRank](YOUR_HACKERRANK_VERIFICATION_URL](https://www.hackerrank.com/certificates/0951cc7378e1))
+**Credential Verification:** [(YOUR_HACKERRANK_VERIFICATION_URL](https://www.hackerrank.com/certificates/0951cc7378e1))
 
 ---
 
 ## 🔗 Related
 
 - **GitHub:** [[My Data Analytics Portfolio](https://github.com/md-avesh](https://github.com/md-avesh))
-- **LinkedIn:** [[Connect With Me](YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/md-avesh-9bb519378/))
+- **LinkedIn:** [(YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/md-avesh-9bb519378/))
 - **Email:** mdavesh.analytics@gmail.com
